@@ -24,5 +24,10 @@
     "express-handlebars": "^3.0.0",
     "mongoose": "^5.3.9",
     "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
   }
 }
