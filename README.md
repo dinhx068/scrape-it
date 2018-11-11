@@ -1,5 +1,4 @@
 # Scrape it
-
 # Description
 
 Practicing scraping reddit for news and posting notes to it through mongodb.
