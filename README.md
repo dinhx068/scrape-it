@@ -19,7 +19,7 @@ It was deployed and can be viewed on heroku, https://enigmatic-eyrie-24126.herok
 - and start the app with, node server.js
 - open browser with the url "localhost:3000"
 
-# Some Commands
+# Commands
 
 - to scrape the reddit page, localhost:3000/scrape
 - to delete all comments, localhost:3000/noteswaduhek
